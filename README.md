@@ -100,6 +100,20 @@ Head over to [Contributing Guidelines](https://github.com/Coders-Evoke-Community
 
 </br>
 </br>
+
+## Project Admin :
+
+<table>
+<tr>
+   <td align="center">
+           <a href="https://github.com/Ayan-thecodeking">
+              <img src="https://avatars.githubusercontent.com/u/78692566?v=4" width="100px" alt=""/><br />
+              <sub><b>Ayan-thecodeking</b></sub>
+           </a>
+       <br/>
+   </td>
+  </tr>
+</table>
 </br>
 
 ## License
@@ -112,8 +126,7 @@ Licensed under the [MIT License](LICENSE).
    something cool must try: <a href="https://github.com/rohan-kulkarni-25/Tribute-To-Contributors">Tribute-To-Contributors Repository </a>
    <br> If u are a begineer and looking for contibutions then you can refer <a href="https://github.com/Ayan-thecodeking/Here-Contributions-Begins.git">here contributions begin repository </a> </h3>
 
-	
-</br>
+</br>	
 </br>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
